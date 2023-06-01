@@ -12,8 +12,7 @@ We compared the performance of the CLIP model and ResNet on image recognition ta
 
 
 ### Coding environment
-We utilized the __Google Colab__ web platform for the development of our final project. You can install all the necessary dependencies simply by executing the installation commands within Colab. Here is our final project link in colab: 
-[open in Colab](https://colab.research.google.com/drive/17Y-G2AczKG8bxNlatSB17CVjiVE0qL27#scrollTo=YVakVS35Xa8N)
+We utilized the __Google Colab__ web platform for the development of our final project. You can install all the necessary dependencies simply by executing the installation commands within Colab.
 
 
 ### Packages version
@@ -24,4 +23,4 @@ pip3 install -r requirements.txt
 
 
 ### Usage
-To execute all cells in Colab that start with "Step", and then choose to execute either the image recognition part or the text-based/image-based image search part based on your needs.
+You can execute the code located in Google Colab by clicking on the link in the Final_project.ipynb file. Execute all cells in Colab that start with "Step", and then choose to execute either the image recognition part or the text-based/image-based image search part based on your needs.
