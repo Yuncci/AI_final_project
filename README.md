@@ -23,4 +23,4 @@ pip3 install -r requirements.txt
 
 
 ### Usage
-You can execute the code located in Google Colab by clicking on the link in the __Final_project.ipynb file__. Execute all cells in Colab that start with "Step", and then choose to execute either the image recognition part or the text-based/image-based image search part based on your needs.
+You can execute the code located in Google Colab by clicking on the link in the __Final_project.ipynb__ file. Execute all cells in Colab that start with "Step", and then choose to execute either the image recognition part or the text-based/image-based image search part based on your needs.
